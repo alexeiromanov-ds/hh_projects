@@ -1,44 +1,12 @@
-# Содержание
-[TOC]
-# Задачи проектов
+# Проекты и их задачи
 
-### Выбор региона для разработки новых нефтяных месторождений
+№ | Проект | Задача | Используевые инструменты и методы
+--- | --- | --- | ---
+1 | [**Выбор региона для разработки новых нефтяных месторождений**](https://github.com/alexeiromanov-ds/yandex_praktikum_projects/tree/main/Выбор%20региона%20для%20разработки%20новых%20нефтяных%20месторождений) | Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды. | `Computer Vision,  Video Analysis, Image, video enhancement (HDR, trailing smear, Image distortion and so on)`
+2 | [**Классификация комментариев**](https://github.com/alexeiromanov-ds/yandex_praktikum_projects/tree/main/Классификация%20комментариев) | Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности. Обучить модель классифицировать комментарии на позитивные и негативные. | ---
+3 | [**Отток клиентов банка**](https://github.com/alexeiromanov-ds/yandex_praktikum_projects/tree/main/Отток%20клиентов%20банка) | Анализ оттока клиентов из банка для выбор стратегии (удержание старых клиентов или привлечение новых клиентов). | ---
+4 | [**Подготовка прототипа модели для металлообрабатывающего предприятия**](https://github.com/alexeiromanov-ds/yandex_praktikum_projects/tree/main/Подготовка%20прототипа%20модели%20для%20металлообрабатывающего%20предприятия) | Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды. | ---
+5 | [**Предсказание цены автомобиля**](https://github.com/alexeiromanov-ds/yandex_praktikum_projects/tree/main/Предсказание%20цены%20автомобиля) | Обучить модель для определения рыночной стоимости автомобиля. | ---
+6 | [**Прогнозирование заказов такси**](https://github.com/alexeiromanov-ds/yandex_praktikum_projects/tree/main/Прогнозирование%20заказов%20такси) | Обучить модель для предсказания количества заказов такси на следующий час. | ---
+7 | [**Разработка алгоритма для защиты данных**](https://github.com/alexeiromanov-ds/yandex_praktikum_projects/tree/main/Разработка%20алгоритма%20для%20защиты%20данных) | Методом преобразования данных защитить личную информацию клиентов страховой компании. | ---
 
-Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.
-
-### Классификация комментариев
-
-Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности.
-Обучить модель классифицировать комментарии на позитивные и негативные.
-
-### Отток клиентов банка
-
-Анализ оттока клиентов из банка для выбор стратегии (удержание старых клиентов или привлечение новых клиентов).
-
-### Подготовка прототипа модели для металлообрабатывающего предприятия
-
-Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.
-
-### Предсказание цены автомобиля
-
-Обучить модель для определения рыночной стоимости автомобиля.
-
-### Прогнозирование заказов такси
-
-Обучить модель для предсказания количества заказов такси на следующий час.
-
-### Разработка алгоритма для защиты данных
-
-Методом преобразования данных защитить личную информацию клиентов страховой компании. 
-
-### Ключевые слова и навыки
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
----
-`Computer Vision,  Video Analysis, Image, video enhancement (HDR, trailing smear, Image distortion and so on). Stereo Vision and Binocular Calibration. Face/body/vehicle attribute and feature recognition (structured and semi-structured), object detection, Re-ID, Face verification and identification, landmarks, identification tracking algorithm, 3D reconstruction, Structure-from-motion, Image filtration. Augmented reality, Virtual reality, Image retrieval, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Keras, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, RNN, SVN, NLP, DNN, Deep Learning, xgboost, Support vector machines, reccurent neural networks, нейронные сети, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, neural networks, artificial intelligence, OpenCV, PIL`

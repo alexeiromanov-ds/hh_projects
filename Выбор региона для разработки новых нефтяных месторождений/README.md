@@ -25,6 +25,6 @@
 Проанализирована возможная прибыль и риски техникой `Bootstrap`.
 
 ---
-### Используевые инструменты и методы
+### Используемые инструменты и методы
 
 `pandas, sklearn, seaborn, matplotlib, numpy, Bootstrap, A/B-тестирование, machine learning, Python, Git, проверка гипотез`

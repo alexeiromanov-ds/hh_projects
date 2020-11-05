@@ -1,67 +1,28 @@
 
+### Ключевые слова и навыки
+`data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL`
+
+
 # Описание проекта
 
 Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. 
+
+### Задачи проекта
+Обучить модель для определения рыночной стоимости автомобиля.
+
+Заказчику важны:
+
+* качество предсказания;
+* скорость предсказания;
+* время обучения.
+
+# Выполненные задачи и выводы
 
 Проанализированы данные: технические характеристики, комплектации и цены автомобилей. Построена модель для определения стоимости автомобиля с пробегом.
 
 Использованы численные методы, приближённые вычисления, оценка сложности алгоритма, градиентный спуск.
 
-### Задачи проекта
+---
+### Используемые инструменты и методы
 
-Обучить модель для определения рыночной стоимости автомобиля.
-
-Заказчику важны:
-
-- качество предсказания;
-- скорость предсказания;
-- время обучения.
-
-### Ключевые слова и навыки
-`data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL`
-
-
-### Описание данных
-
-Данные находятся в файле `/datasets/autos.csv`
-
-Признаки:
-* `DateCrawled` — дата скачивания анкеты из базы
-* `VehicleType` — тип автомобильного кузова
-* `RegistrationYear` — год регистрации автомобиля
-* `Gearbox` — тип коробки передач
-* `Power` — мощность (л. с.)
-* `Model` — модель автомобиля
-* `Kilometer` — пробег (км)
-* `RegistrationMonth` — месяц регистрации автомобиля
-* `FuelType` — тип топлива
-* `Brand` — марка автомобиля
-* `NotRepaired` — была машина в ремонте или нет
-* `DateCreated` — дата создания анкеты
-* `NumberOfPictures` — количество фотографий автомобиля
-* `PostalCode` — почтовый индекс владельца анкеты (пользователя)
-* `LastSeen` — дата последней активности пользователя
-
-Целевой признак
-* `Price` — цена (евро)
-
-# Содержание <a name="title"></a>
-
-[Импорт библиотек и задание констант](#import)
-1. [Загрузка и подготовка данных](#1)
-
-    1.1 [Обработка дубликатов](#1.1)
-    
-    1.2 [Обработка пропусков и удаление аномалий](#1.2)
-    
- 
-2. [Обоснование алгоритма преобразования](#2)
-
-    2.1 [Обучение CatBoost](#2.1)
-    
-    2.2 [Обучение LightGBM](#2.2)
-
-    2.3 [Обучение логистической регрессии](#2.3)
-    
-    
-3. [Анализ моделей](#3)
+`pandas, sklearn, seaborn, matplotlib, numpy, lightgbm, cross_val_score, catboost, machine learning, Python, Git`
